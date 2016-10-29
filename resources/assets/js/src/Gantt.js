@@ -8,7 +8,7 @@ Hiject.Gantt = function(app) {
         showWeekends: true,
         allowMoves: true,
         allowResizes: true,
-        cellWidth: 21,
+        cellWidth: 20,
         cellHeight: 31,
         slideWidth: 1000,
         vHeaderWidth: 200
