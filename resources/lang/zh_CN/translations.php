@@ -1000,7 +1000,7 @@ return array(
     'Default priority' => '默认优先级',
     'Lowest priority' => '最低优先级',
     'Highest priority' => '最高优先级',
-    'If you put zero to the low and high priority, this feature will be disabled.' => '如果你为优先级填0，将禁用本功能',
+    'If you put zero to the low and high priority, this feature will be disabled.' => '如果最低和最高优先级均设置为0，将禁用本功能',
     'Close a task when there is no activity' => '当任务没有动态时关闭任务',
     'Duration in days' => '持续天数',
     'Send email when there is no activity on a task' => '当任务没有活动记录时发送邮件',
