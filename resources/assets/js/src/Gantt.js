@@ -193,8 +193,8 @@ Hiject.Gantt.prototype.addBlocks = function(slider, start) {
             "class": "ganttview-block tooltip" + (this.options.allowMoves ? " ganttview-block-movable" : ""),
             "title": this.getBarTooltip(series),
             "css": {
-                "width": ((size * this.options.cellWidth) - 9) + "px",
-                "margin-left": (offset * this.options.cellWidth) + "px"
+                "width": ((size * this.options.cellWidth) - 3) + "px",
+                "margin-left": (offset * this.options.cellWidth + 1) + "px"
             }
         }).append(text);
 
